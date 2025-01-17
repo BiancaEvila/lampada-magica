@@ -24,18 +24,18 @@ main {
     }
 
     img {
-        width: 32%;
+        width: 50%;
         max-width: 500px;
         height: auto;
     }
 
     button {
-        width: 20vw;
+        width: 40vw;
         max-width: 300px;
         height: 10vh;
         max-height: 60px;
         background-color: #007BFF;
-        font-size: 4vh;
+        font-size: 3vh;
         border: none;
         border-radius: 50px;
         cursor: pointer;
@@ -55,7 +55,7 @@ main {
 
         button {
             width: 50%;
-            font-size: 5vw;
+            font-size: 4vw;
         }
     }
 }
